@@ -1,3 +1,2 @@
-git is awesome
-new line
+git is awesomee
 exp with amend
